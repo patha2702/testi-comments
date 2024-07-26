@@ -14,7 +14,7 @@ export default function GetInTouch() {
           </h2>
           <p className="mt-4 font-normal text-base text-neutral-300 max-w-lg text-center mx-auto">
             Have questions about TestiCollect? Want to see how we can help boost
-            your customer testimonials? Reach out to us, and we'll be happy to
+            your customer testimonials&#63; Reach out to us, and we&apos;ll be happy to
             assist you.
           </p>
           <form className="mt-8 space-y-4 max-w-md mx-auto">
